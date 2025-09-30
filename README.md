@@ -12,7 +12,6 @@ Proyek ini dikembangkan sebagai bagian dari tugas project semester 3.
 - [Struktur Folder](#-struktur-folder)
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [Instalasi & Setup](#-instalasi--setup)
-- [License](#-license)
 - [Penulis](#-penulis)
 
 ---
@@ -20,7 +19,7 @@ Proyek ini dikembangkan sebagai bagian dari tugas project semester 3.
 ## 📸 Screenshots / Demo
 <p align="center">
   <img src="./image/preview/dekstop.png" alt="preview" width="300"/>
-  <img src="./image/preview/mobile.png" alt="preview" width="300"/>
+  <img src="./image/preview/mobile.png" alt="preview" width="300" height="200"/>
   <img src="./image/preview/dekstop1.png" alt="preview" width="300"/>
   <img src="./image/preview/keranjang.png" alt="preview" width="300"/>
 </p>
@@ -90,11 +89,6 @@ Proyek ini bertujuan untuk membuat sistem toko online sederhana dengan fitur das
     $db_name = "db_tugasproject";
     ?>
     ```
-
----
-
-## 📄 License
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
